@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="name">Name</string>
+    <string name="ke">তুই কে ?</string>
+    <string name="edit_message">Please enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
